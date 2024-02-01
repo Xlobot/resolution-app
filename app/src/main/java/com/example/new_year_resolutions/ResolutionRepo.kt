@@ -5,12 +5,13 @@ val resolutions= listOf(
         "Wake Up Early"
     ),
     Resolution(
-        "Attend GDSC events"
+        "Attend Lectures Regularly"
     ),
     Resolution(
-        "Eat healthy"
+        "Sleep Early"
     ),
     Resolution(
-        "Be Happy"
+        "Be Confident"
     )
 )
+val Resolutions = listOf<Resolution>()
